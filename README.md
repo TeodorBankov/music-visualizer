@@ -1,2 +1,3 @@
 # music-visualizer
-Will try to make something similar to winamp's visualization but better (c/hopefully)
+Will try to make Music visualiser with electron-js and possibly sync it to computer audio/music. 
+
